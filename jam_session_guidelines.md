@@ -40,14 +40,17 @@ Au delà de 4 musicien.nes proposition de jouer par rotation de 4
 ## Formats proposés
 
 **Jam Collective**
+
 Max 4 personnes rotation au bout de 30 min ou 1h (cela n'empeche aucunement de passer le relait à quelqu'un d'autre sur le même instrument)
 
 Chacun prend un rôle DRUM / BASS / LEAD / FX (pot à role ? / interface web ?)
 
 **Jam Duo**
+
 Rotation en toutes les 15-20min minutes
 
 **Jam Solo**
+
 Une personne pendant 15-20min
 
 **⚠ Ces formats sont bien évidement ouvert à discussion, si vous avez des envies n'hésitez pas à les partager**
@@ -55,6 +58,7 @@ Une personne pendant 15-20min
 ## Matériel à disposition
 
 **Audio**
+
 Mixette 7 entrées (peut être chainée avec un mixette 3-4 entrées)
 
 
